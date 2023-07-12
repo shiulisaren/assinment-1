@@ -1,0 +1,247 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* this is frist section*/
+.banner {
+    display: flex;
+    padding: 40px 40px 0 150px;
+    background-color: #FFF8F3;
+    align-items: center;
+
+
+}
+
+.pra {
+    padding: 20px;
+}
+
+.image-content {
+    width: 600px;
+    height: 800PX;
+
+}
+
+.banner-greting {
+    font-size: 50px;
+}
+
+.button {
+    background-color: #E55473;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 0;
+    color: white;
+    padding: 10px 15px;
+
+
+}
+
+/*============= Our Featured Flowers Start ===========*/
+.flowers_heading {
+    text-align: center;
+}
+
+.flowers_heading h2 {
+    font-size: 50px;
+}
+
+.flowers_heading p {
+    font-size: 20px;
+}
+
+.main_flowers {
+    display: flex;
+    justify-content: space-between;
+}
+
+.frist_cards {
+    width: 340px;
+}
+
+.frist_card {
+    width: 340px;
+    height: 400px;
+    background: #f0aacc;
+    border-radius: 170px 170px 0px 0;
+    justify-content: center;
+    display: flex;
+    align-items: end;
+}
+
+.frist_card2 {
+    width: 340px;
+    height: 400px;
+    background: #aadcf0;
+    border-radius: 170px 170px 0px 0;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.frist_card3 {
+    width: 340px;
+    height: 400px;
+    background: #878b8d;
+    border-radius: 170px 170px 0px 0;
+    justify-content: center;
+    display: flex;
+    align-items: end;
+}
+
+.frist_card3 img {
+    height: 300px;
+}
+
+.frist_card2 img {
+    height: 300px;
+}
+
+.frist_card img {
+    height: 300px;
+}
+
+.frist_card_title {
+    text-align: center;
+    margin-top: 20px;
+    text-decoration: underline;
+}
+
+/* this is second section*/
+.flower {
+    display: flex;
+    background-color: rgba(229, 84, 115, 0.05);
+    margin-top: 120px;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.flower-title {
+    width: 550px;
+}
+
+.header {
+    font-size: 40px;
+}
+
+.color {
+    color: #E55473;
+}
+
+
+
+.flower-title {
+    text-align: center;
+    padding-top: 230px;
+
+
+}
+
+
+
+.flower-detail {
+    color: #27272799;
+    line-height: 30px;
+
+}
+
+.photo {
+    width: 310px;
+    height: 400px;
+    padding-top: 100px;
+
+}
+
+
+/* this is thrid section*/
+.color-content {
+    color: #272727;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+
+.photo-conteiner {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.photo-content {
+    width: 350px;
+
+
+
+
+}
+
+.photo-content img {
+    width: 100%;
+
+}
+
+
+
+.header-content {
+    text-align: center;
+    padding-bottom: 22px;
+    line-height: 25px;
+}
+
+/* this is fourth section*/
+.theader-link {
+    font-size: 50px;
+
+}
+
+.div-conteiner {
+    text-align: center;
+    padding-top: 150px;
+    background-image: url(../Rectangle\ 9.png);
+    width: 1440px;
+    height: 449px;
+    background-repeat: no-repeat;
+    margin-top: 120px;
+
+}
+
+
+.coupon {
+    margin-bottom: 20px;
+
+}
+
+.input {
+    width: 680px;
+    height: 50px;
+
+}
+
+::placeholder {
+    padding: 20px;
+}
+
+/* this is five section*/
+.footer-section {
+    height: 200px;
+    background-color: #272727;
+    color: white;
+    text-align: center;
+    padding: 120px;
+}
+
+
+.shop {
+    font-size: 40px;
+}
+
+.look {
+    padding-bottom: 20px;
+}
